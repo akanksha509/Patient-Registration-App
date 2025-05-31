@@ -12,7 +12,7 @@ A lightweight, browser-only patient-registration system:
 
 ## Demo
 
-> **[Live Demo](https://your-app-url.netlify.app)** — Replace with your deployment URL
+> **[Live Demo](https://patient-registration-app-ak.netlify.app/)**
 
 ---
 
